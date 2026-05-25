@@ -16,6 +16,7 @@ export default function App() {
       <aside className="sidebar">
         <h2>Community</h2>
 
+
         <nav>
           <p>🏠 Home</p>
           <p>🔥 Trending</p>
